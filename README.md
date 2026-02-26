@@ -23,7 +23,8 @@ Or clone and install:
 
 ```bash
 git clone https://github.com/vidyasagarr7/cw.git
-cd cw && ./install.sh
+cd cw && chmod +x install.sh cw.sh 
+./install.sh
 ```
 
 ### Requirements
